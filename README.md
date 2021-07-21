@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Vanessa Miranda 
+## Olaaaá 👋 sou Vanessa Miranda,
 
-# Welcome!
+# Bem Vindos!
 
 <!--
 **Mir4nd4s/Mir4nd4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 Sou técnica em mecatrônica, e por ser apaixonada por tecnologia atualmente estudo ciência da computação.
 Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design Visual*
 
-- [Website](https://mir4nd4s.github.io/Meu_Portifolio/) 💻 - Working on it.
+### Sempre em construção 🚧
+- [Portifólio](https://mir4nd4s.github.io/Meu_Portifolio/) 💻
