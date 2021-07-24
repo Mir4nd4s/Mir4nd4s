@@ -30,7 +30,6 @@ Me chamo <b>Vanessa Miranda</b>,
 <h1 align='center'> Bem Vindos! </h1>
 <hr>
 
-
 <p align="center"> 
   <a href="https://github.com/Mir4nd4s" target="_blank">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&style=plastic" >
@@ -43,13 +42,12 @@ Me chamo <b>Vanessa Miranda</b>,
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/62124855/126871594-9eea004b-7873-491b-9bb0-04ed14c2022f.png" width="400px" />
 
 
-
 ### Sobre mim...
 Sou técnica em mecatrônica, e por ser apaixonada por tecnologia atualmente estudo ciência da computação.
-Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design Visual*
+Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design*
 
 ### Sempre em construção 🚧
-- <a href="https://mir4nd4s.github.io/Meu_Portifolio/" target='_blank' >Portifólio 💻</a>
+- <a href="https://mir4nd4s.github.io/Meu_Portifolio/" target="_blank" >Portifólio 💻</a>
 
 
 
