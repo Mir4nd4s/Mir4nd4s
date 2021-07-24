@@ -1,21 +1,3 @@
-<!--
-**Mir4nd4s/Mir4nd4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-�
--->
-
-<h1> Olaaaá 👋 </h1>
-
 <!-- ```diff
 - text in red
 + text in green
@@ -23,11 +5,11 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```  -->
-
-Me chamo <b>Vanessa Miranda</b>,
-
+<h1> Olaaaá 👋 </h1>
 
 <h1 align='center'> Bem Vindos! </h1>
+
+Me chamo <b>Vanessa Miranda</b>,
 <hr>
 
 <p align="center"> 
@@ -59,3 +41,18 @@ Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design*
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mir4nd4s&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Mir4nd4s" />
 </p>  -->
 
+<!--
+**Mir4nd4s/Mir4nd4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+�
+-->
