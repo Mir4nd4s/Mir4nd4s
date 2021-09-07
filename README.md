@@ -5,6 +5,9 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```  -->
+
+
+
 <h1> Olaaaá 👋 </h1>
 
 <h1 align='center'> Bem Vindos! </h1>
@@ -34,8 +37,12 @@ Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design*
 
 
 <p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir4nd4s&layout=compact&theme=graywhite&title_color=268bd2" alt="Mir4nd4s" 
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir4nd4s&layout=compact&theme=midnight-purple" alt="Mir4nd4s" 
 </p> 
+  
+  
+
+  
 <!--
   <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mir4nd4s&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Mir4nd4s" />
