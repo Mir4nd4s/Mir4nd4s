@@ -23,8 +23,11 @@ Me chamo <b>Vanessa Miranda</b>,
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&style=plastic"  >
   </a>  
 </p>
-  
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/62124855/126871594-9eea004b-7873-491b-9bb0-04ed14c2022f.png" width="400px" />
+
+ 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/62124855/132274061-611776ee-1795-44e3-8dfa-8fb8d1a6b8a1.png" width="320px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/62124855/126871594-9eea004b-7873-491b-9bb0-04ed14c2022f.png" width="320px" />
+
 
 
 ### Sobre mim...
@@ -35,10 +38,10 @@ Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design*
 - <a href="https://mir4nd4s.github.io/Meu_Portifolio/" target="_blank" >Portifólio 💻</a>
 
 
-
-<p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir4nd4s&layout=compact&theme=midnight-purple" alt="Mir4nd4s" 
-</p> 
+<br>
+<div align="center" >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mir4nd4s&layout=compact&theme=midnight-purple" alt="Mir4nd4s" 
+</div> 
   
   
 
