@@ -31,7 +31,7 @@ Me chamo <b>Vanessa Miranda</b>,
 
 
 ### Sobre mim...
-Sou técnica em mecatrônica, e por ser apaixonada por tecnologia atualmente estudo ciência da computação.
+Sou técnica em mecatrônica, e por ser apaixonada por tecnologia atualmente estudo Análise e Desenvolvimento de Software.
 Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design*
 
 ### Sempre em construção 🚧
