@@ -35,7 +35,7 @@ Sou técnica em mecatrônica, e por ser apaixonada por tecnologia atualmente est
 Pretendo me tornar uma programadora *Frontend* com uma pegada de *Design*
 
 ### Sempre em construção 🚧
-- <a href="https://mir4nd4s.github.io/Meu_Portifolio/" target="_blank" >Portifólio 💻</a>
+- <a href="https://portifolio-green.vercel.app/" target="_blank" >Portifólio 💻</a>
 
 
 <br>
